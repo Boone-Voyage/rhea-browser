@@ -351,3 +351,8 @@ mobile/android/annotations/bin/
 
 # Ignore generated log files under media/libvpx
 media/libvpx/config/**/config.log
+
+# Project-specific files
+build.log
+daniel_fix_floorp_scripts.sh
+floorp_backup_*/
